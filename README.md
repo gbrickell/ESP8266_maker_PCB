@@ -1,7 +1,7 @@
 # ESP8266 Maker PCB
  ESP8266 Maker PCB design that includes a MCP23017 GPIO extender
 
-Shown below are images of the PCB design, an individual PCB example, plus photos of a partially assembled PCB with 3D printed support 'legs'.
+Shown below are images of the PCB design, an individual PCB example, plus photos of a partially assembled PCB with 3D printed support 'legs'. More details on this project can be found [here](https://onlinedevices.org.uk/ESP8266_Maker_PCB) and the 3D print designs for the support 'legs' are available [here](https://www.printables.com/model/67963-pcb-support-foot).
 
 <img src="images\ESP8266_PCB01_front01_900w.jpg" width="135" height="150"> &nbsp; &nbsp; <img src="images\ESP8266_PCB01_front_image01_email_600w.jpg" width="134" height="150"> &nbsp; &nbsp; <img src="images\ESP8266_PCB01_back01_900w.jpg" width="135" height="150"> &nbsp; &nbsp; <img src="images\ESP8266_PCB01_back02_900w.jpg" width="135" height="150">
 
