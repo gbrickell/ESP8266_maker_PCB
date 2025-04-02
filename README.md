@@ -1,4 +1,4 @@
-# ESP8266 maker PCB
+# ESP8266 Maker PCB
  ESP8266 Maker PCB design that includes a MCP23017 GPIO extender
 
 Shown below are images of the PCB design, an individual PCB example, plus photos of a partially assembled PCB with 3D printed support 'legs'.
